@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-/**
- * This Java program demonstrates a simple calculation: 
- * finding the sum of two numbers entered by the user.
-*/
+
+
 
 public class SumOfTwoNumbers {
 
@@ -25,7 +23,6 @@ public class SumOfTwoNumbers {
 
         
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
-        System.out.println("
 
         
         scanner.close();

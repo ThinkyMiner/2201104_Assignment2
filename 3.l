@@ -32,7 +32,7 @@ spaces [\t ]+
 {DIV} { divc++; }
 {SPAN} { span++; }
 {SCRIPT} { script++; }
-{words}	;										  /* Ignore other characters */
+{words}	;
 {others} ;
 %%
 

@@ -4,7 +4,7 @@
 
 newLineCharacters [\r\n]
 singleLineComment "//".*
-startMultiLineComment "/*"
+startMultiLineComment "/**"
 notStar [^*]
 starPlusNotSlashOrNewline  \*+([^*/]|{newLineCharacters})
 endMultiLineComment  \*+\/
