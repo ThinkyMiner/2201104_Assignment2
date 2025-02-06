@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-/**
- * This Java program demonstrates a simple calculation: 
- * finding the sum of two numbers entered by the user.
-*/
+    /**
+     * This Java program demonstrates a simple calculation: 
+     * finding the sum of two numbers entered by the user.
+    */
 /*
  hello
  gghh

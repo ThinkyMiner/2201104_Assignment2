@@ -20,7 +20,7 @@ spaces [\t ]+
 {others} ;
 {spaces} ;
 %%
-
+ 
 int yywrap(void){} 
 
 int main()
